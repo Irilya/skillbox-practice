@@ -1,3 +1,3 @@
 print("Hello world!")
 print('Привет Мир!')
-print(1 + 1)
+print(1 + 2)
